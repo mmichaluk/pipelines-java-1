@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mmichaluk0507/Java%20Project/_apis/build/status/mmichaluk.pipelines-java-1?branchName=master)](https://dev.azure.com/mmichaluk0507/Java%20Project/_build/latest?definitionId=9&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
